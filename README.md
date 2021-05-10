@@ -2,28 +2,36 @@
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: Cecelia Po'oi
 
-Date: 
+Date: 10/05/2021
 
-Homeroom: 
+Homeroom: 10 TT
 
-Teacher: 
+Teacher: mr. malaitai
 
 # Instructions:
 
 ## Complete the following:
 1. What is the purpose of the web page?
 
-*INSERT ANSWER HERE*
+just forr people to be aware that there is Racism in the world and some people have to go through it daily.
 
 2. Who is the target audience of the web page?
 
-*INSERT ANSWER HERE*
+our youth and karens, kevins and other racist people hehehe
 
 3. What resources (e.g. images, videos etc) will you need to create your web page? 
 
-*INSERT ANSWER HERE*
+https://unsplash.com/
+
+https://en.wikipedia.org/wiki/Racism
+
+https://en.wikipedia.org/wiki/Stop_Asian_Hate
+
+https://youtu.be/EG1ZbToz044
+
+https://youtu.be/dVovt3zKdPY
 
 4. Create a conceptual design of the web page and upload it to your repository.
 
