@@ -2,12 +2,13 @@
 Name: 
 Date: 
 */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 :root{
-    --main-bg-colour: #05445e;
-    --sec-bg-colour: #189ab4;
-    --main-colour: #d4f1f4;
-    --sec-colour: #75e6da;
+    --main-bg-colour: #000000;
+    --sec-bg-colour: #FFFFFF;
+    --main-colour: #FFFF8F;
+    --sec-colour: #000000 ;
 }
 
 .container{ /*DO NOT REMOVE OR EDIT*/
@@ -27,14 +28,16 @@ Date:
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    background-color: var(--main-bg-colour);
+    background-color:  #000000;
     color: var(--main-colour);
+    font-family: 'Oswald', sans-serif;
 }
 
 .main{ /*DO NOT REMOVE*/
     grid-area: main;
-    background-color: var(--sec-bg-colour);
+    background-color:  #000000;
     color: var(--main-colour);
+    padding: 20px;
 }
 
 .side1{ /*DO NOT REMOVE*/
@@ -49,10 +52,17 @@ Date:
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
+     color: #FFFFFF;   
+    font-family: 'Oswald', sans-serif;
+    background-color:  #000000;
+  
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+     color: #FFFFFF;  
+    font-family: 'Oswald', sans-serif;
+      background-color:  #000000;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
@@ -63,4 +73,5 @@ Date:
     grid-area: footer;
     background-color: var(--main-bg-colour);
     color: var(--main-colour);
+      font-family: 'Oswald', sans-serif;
 }
